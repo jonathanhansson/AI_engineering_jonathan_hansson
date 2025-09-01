@@ -1,0 +1,101 @@
+Spelare,Position,Mål,Assist,Passningsprocent,Tacklingar,Interceptioner,Skott,Luftdueller,Dribblingar,Räddningar
+Lionel Messi,Anfallare,16,8,84,10,7,110,30,112,0
+Cristiano Ronaldo,Anfallare,32,15,80,23,3,73,12,51,0
+Robert Lewandowski,Anfallare,30,6,81,29,5,51,30,62,0
+Kylian Mbappé,Anfallare,21,14,81,24,16,108,37,89,0
+Erling Haaland,Anfallare,25,19,84,29,18,104,12,80,0
+Karim Benzema,Anfallare,16,9,78,6,17,53,34,89,0
+Neymar Jr,Anfallare,23,6,78,25,1,109,16,73,0
+Luis Suárez,Anfallare,38,12,84,2,13,85,49,33,0
+Harry Kane,Anfallare,11,18,75,21,9,53,38,92,0
+Zlatan Ibrahimović,Anfallare,27,14,81,1,9,111,45,43,0
+Mohamed Salah,Anfallare,25,19,77,13,7,102,33,55,0
+Sadio Mané,Anfallare,34,16,82,8,14,94,10,118,0
+Son Heung-min,Anfallare,16,13,70,11,7,112,20,110,0
+Riyad Mahrez,Anfallare,17,7,72,0,4,90,37,36,0
+Antoine Griezmann,Anfallare,18,12,81,1,0,97,32,91,0
+Paulo Dybala,Anfallare,33,9,72,11,7,84,10,76,0
+Eden Hazard,Anfallare,23,7,70,4,13,76,18,108,0
+Raheem Sterling,Anfallare,24,14,79,27,12,100,41,81,0
+Gabriel Jesus,Anfallare,38,8,74,22,6,64,38,65,0
+Romelu Lukaku,Anfallare,22,11,88,21,1,91,15,57,0
+Kevin De Bruyne,Mittfältare,11,16,91,49,20,37,29,48,0
+Luka Modrić,Mittfältare,13,5,80,46,22,50,7,48,0
+Toni Kroos,Mittfältare,5,12,90,28,46,42,23,51,0
+Paul Pogba,Mittfältare,11,19,90,51,41,33,13,58,0
+N'Golo Kanté,Mittfältare,13,21,89,71,21,48,6,12,0
+Sergio Busquets,Mittfältare,0,9,80,75,26,58,6,11,0
+Casemiro,Mittfältare,11,9,80,20,28,11,25,53,0
+David Silva,Mittfältare,9,10,86,87,20,26,10,33,0
+Marco Verratti,Mittfältare,4,24,81,89,31,20,20,25,0
+Bruno Fernandes,Mittfältare,0,13,91,78,15,25,7,29,0
+Thiago Alcântara,Mittfältare,11,8,82,86,28,29,11,50,0
+Frankie de Jong,Mittfältare,0,12,86,20,20,37,29,34,0
+Jude Bellingham,Mittfältare,1,14,82,26,25,35,20,58,0
+Phil Foden,Mittfältare,1,5,93,31,14,46,27,18,0
+Mason Mount,Mittfältare,8,7,82,67,25,12,24,33,0
+Joshua Kimmich,Mittfältare,5,5,87,94,58,17,8,47,0
+Ilkay Gündogan,Mittfältare,7,24,93,44,38,27,18,27,0
+Pedri,Mittfältare,1,7,92,60,45,42,8,42,0
+Gavi,Mittfältare,13,20,83,27,16,12,21,42,0
+Martin Ødegaard,Mittfältare,11,23,85,41,55,39,10,47,0
+Virgil van Dijk,Försvarare,4,2,77,76,46,1,40,0,0
+Sergio Ramos,Försvarare,3,0,74,110,67,18,23,2,0
+Gerard Piqué,Försvarare,0,0,81,141,49,13,72,5,0
+Raphaël Varane,Försvarare,2,8,74,73,48,16,65,2,0
+Kalidou Koulibaly,Försvarare,3,0,89,112,40,0,22,17,0
+Matthijs de Ligt,Försvarare,0,9,72,95,43,17,51,14,0
+Aymeric Laporte,Försvarare,1,9,71,139,36,7,52,8,0
+Thiago Silva,Försvarare,2,5,85,88,48,9,74,2,0
+Jules Koundé,Försvarare,1,8,82,109,77,6,76,3,0
+Antonio Rüdiger,Försvarare,4,3,70,57,65,15,33,11,0
+Trent Alexander-Arnold,Försvarare,2,6,84,141,53,1,51,18,0
+Andrew Robertson,Försvarare,0,9,86,101,61,5,34,10,0
+Jordi Alba,Försvarare,3,4,70,57,72,11,63,4,0
+Kyle Walker,Försvarare,3,5,82,145,71,14,54,7,0
+Dani Alves,Försvarare,3,1,79,79,38,16,75,18,0
+João Cancelo,Försvarare,3,9,74,139,72,8,31,0,0
+Achraf Hakimi,Försvarare,1,9,70,83,51,15,44,7,0
+Benjamin Pavard,Försvarare,4,4,70,65,58,4,41,2,0
+Theo Hernández,Försvarare,3,9,85,100,56,13,47,4,0
+Reece James,Försvarare,0,3,74,125,35,15,40,6,0
+Marcelo,Försvarare,3,0,74,72,77,9,73,4,0
+César Azpilicueta,Försvarare,3,1,89,144,29,18,77,0,0
+Leonardo Bonucci,Försvarare,4,3,85,73,35,1,68,19,0
+Giorgio Chiellini,Försvarare,3,1,72,82,52,18,62,4,0
+Alessandro Bastoni,Försvarare,3,2,70,82,59,9,62,11,0
+Dayot Upamecano,Försvarare,4,1,88,84,42,16,45,7,0
+Stefan de Vrij,Försvarare,4,9,79,139,53,18,60,6,0
+Marquinhos,Försvarare,3,9,87,124,48,3,44,3,0
+Presnel Kimpembe,Försvarare,1,4,78,73,54,16,54,15,0
+Eder Militão,Försvarare,3,1,86,145,43,4,31,16,0
+Manuel Neuer,Målvakt,0,0,72,6,8,0,7,0,79
+Thibaut Courtois,Målvakt,0,0,76,3,8,0,10,4,68
+Alisson Becker,Målvakt,0,0,63,8,2,0,16,0,77
+Ederson Moraes,Målvakt,0,1,79,2,9,0,19,4,118
+Jan Oblak,Målvakt,0,0,71,8,3,0,15,4,102
+Keylor Navas,Målvakt,0,0,75,8,6,0,17,4,91
+David de Gea,Målvakt,0,1,66,9,4,0,7,4,124
+Marc-André ter Stegen,Målvakt,0,1,74,8,9,0,14,3,194
+Hugo Lloris,Målvakt,0,0,65,6,7,0,14,0,76
+Gianluigi Donnarumma,Målvakt,0,1,61,4,4,0,10,2,185
+Petr Čech,Målvakt,0,1,72,0,5,0,8,0,120
+Iker Casillas,Målvakt,0,0,72,3,3,0,10,3,68
+Oliver Kahn,Målvakt,0,0,71,5,6,0,15,1,139
+Fabien Barthez,Målvakt,0,0,66,2,1,0,16,1,197
+Jens Lehmann,Målvakt,0,1,67,8,6,0,5,2,141
+Gigi Buffon,Målvakt,0,1,84,0,8,0,12,0,166
+Pepe Reina,Målvakt,0,1,71,4,5,0,9,2,196
+Claudio Bravo,Målvakt,0,1,84,1,8,0,5,0,166
+Samir Handanović,Målvakt,0,1,81,2,6,0,13,2,61
+Sergio Asenjo,Målvakt,0,1,75,7,5,0,16,3,166
+Ronaldo Nazário,Anfallare,17,14,73,25,7,107,37,70,0
+Ronaldinho,Anfallare,13,15,86,8,0,78,22,75,0
+Zinedine Zidane,Mittfältare,2,10,81,88,56,34,6,19,0
+David Beckham,Mittfältare,7,22,90,24,42,10,22,41,0
+Andrea Pirlo,Mittfältare,14,21,90,45,34,31,21,22,0
+Steven Gerrard,Mittfältare,0,6,88,20,30,57,27,15,0
+Frank Lampard,Mittfältare,11,21,84,24,47,12,25,32,0
+Xavi Hernández,Mittfältare,4,9,89,93,28,26,25,23,0
+Andrés Iniesta,Mittfältare,8,18,80,70,54,22,8,10,0
+Claude Makélélé,Mittfältare,0,12,81,91,48,35,6,12,0
