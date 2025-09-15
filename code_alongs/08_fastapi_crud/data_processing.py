@@ -1,7 +1,7 @@
 from constants import DATA_PATH
 import json
 from pprint import pprint
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, field_validator
 
 def read_json(filename: str):
     with open(DATA_PATH / filename, "r") as file:
@@ -34,6 +34,17 @@ def library_data(filename):
     # deserializes library json data into a library model
     json_data = read_json(filename)
     return Library.model_validate(json_data)
+
+class YearFilter(BaseModel):
+    start_year: int = Field(1800, gt=1000, lt=2026)
+    end_year: int = Field(2000, gt=1000, lt=2026)
+
+    @field_validator("end_year")
+    @classmethod
+    def validate_end_year(cls, value, info):
+        if value <= info.data.get("start_year"):
+            raise ValueError("End_year must greater than start_year")
+        return value
 
 if __name__ == "__main__":
     data = library_data("../../data/library.json")
