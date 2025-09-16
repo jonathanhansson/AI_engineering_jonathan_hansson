@@ -1,6 +1,5 @@
 from pathlib import Path
-from datetime import datetime
 
 DATA_PATH = Path(__file__).parents[2] / "data"
 
-print(__file__)
+print(DATA_PATH)

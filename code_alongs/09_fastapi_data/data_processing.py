@@ -21,6 +21,15 @@ class DataExplorer:
 
         return self
 
+    def kpis(self, country: str):
+        """Filter out kpis based on country"""
+        df_by_country = self._df_full.query("Country.str.casefold() == @country.casefold()")
+        
+        return {
+            "total_profit": str(df_by_country["Profit"].sum())
+        }
+        
+
     def json_response(self):
         json_data = self.df.to_json(orient = "records")
         return json.loads(json_data)
