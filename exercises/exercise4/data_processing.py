@@ -11,6 +11,11 @@ class MYH:
         self.df_full = df
         self.df = df.head(limit)
 
+    def filter_school(self, school):
+        self.df_full.query("`Utbildningsanordnare administrativ enhet` == @school")
+        return self
+
+
     def to_json(self):
         data = self.df.to_json(orient="records")
         return json.loads(data)
